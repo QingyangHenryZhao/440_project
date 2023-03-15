@@ -1,0 +1,102 @@
+,0,1,2,3,4,5,6,7,8
+0,METABOLITES_START,,,,,,,,
+1,metabolite_name,RT [min],m/z meas.,M meas.,Ions,MS/MS,Molecular Formula,Annotations,AQ
+2,"1,3-Dimethyluric acid",7.24,197.06706,196.05978,[M+H]+,TRUE,C7H8N4O3,Analyte List - Metabolite,2120
+3,1-Methyladenosine,3.68,282.12012,281.11285,[M+H]+,TRUE,C11H15N5O4,Analyte List - Metabolite,2110
+4,"2,5-Furandicarboxylic acid",1.59,157.01736,156.01009,[M+H]+,TRUE,C6H4O5,Analyte List - Metabolite,1120
+5,2-Pyrrolidinone,19.35,86.06019,85.05291,[M+H]+,TRUE,C4H7NO,Analyte List - Metabolite,2120
+6,"3,4,5-Trimethoxycinnamic acid",9.58,239.09153,238.08426,"[M+H]+, [M-H2O+H]+",TRUE,C12H14O5,Analyte List - Metabolite,2120
+7,"3,5-Dimethoxyphenol",9.65,155.07039,154.06312,[M+H]+,TRUE,C8H10O3,Analyte List - Metabolite,2120
+8,3-Indolepropionic acid,11.48,190.08648,189.07921,[M+H]+,TRUE,C11H11NO2,Analyte List - Metabolite,2110
+9,3-Methylindole,7.39,132.08088,131.0736,[M+H]+,TRUE,C9H9N,Analyte List - Metabolite,2120
+10,3-Methylxanthine,6.39,167.05632,166.04904,[M+H]+,TRUE,C6H6N4O2,Analyte List - Metabolite,2120
+11,4-Aminophenol,7.33,110.06001,109.05273,[M+H]+,TRUE,C6H7NO,Analyte List - Metabolite,2120
+12,5-Hydroxy-L-tryptophan,6.78,221.0921,220.08482,[M+H]+,TRUE,C11H12N2O3,Analyte List - Metabolite,2110
+13,5-Hydroxyindoleacetic acid,6.52,192.06563,191.05842,"[M+H]+, [M-H2O+H]+",TRUE,C10H9NO3,Analyte List - Metabolite,2120
+14,9-Methyluric acid,6.4,183.0514,182.04412,[M+H]+,TRUE,C6H6N4O3,Analyte List - Metabolite,2120
+15,Acetaminophen,7.33,152.07062,151.06337,"[M+H]+, [M+Na]+",TRUE,C8H9NO2,Analyte List - Metabolite,2120
+16,Acetaminophen glucuronide,6.51,328.10331,327.09436,"[M+H]+, [M+K]+",TRUE,C14H17NO8,Analyte List - Metabolite,2120
+17,Acetic acid,1.55,61.0288,60.02152,[M+H]+,TRUE,C2H4O2,Analyte List - Metabolite,2020
+18,Acetone,22.13,59.04922,58.04194,[M+H]+,TRUE,C3H6O,Analyte List - Metabolite,2020
+19,Adenosine monophosphate,3.51,348.071,347.06372,[M+H]+,TRUE,C10H14N5O7P,Analyte List - Metabolite,2110
+20,Allantoin,1.56,159.05029,158.04301,[M+H]+,TRUE,C4H6N4O3,Analyte List - Metabolite,2000
+21,Alpha-ketoisovaleric acid,7.39,117.05733,116.05005,[M+H]+,TRUE,C5H8O3,Analyte List - Metabolite,1100
+22,Alpha-N-phenylacetyl-L-glutamine,8.44,265.11847,264.11125,"[M+H]+, [M-H2O+H]+",TRUE,C13H16N2O4,Analyte List - Metabolite,2120
+23,Aniline,6.54,94.0653,93.05802,[M+H]+,TRUE,C6H7N,Analyte List - Metabolite,2120
+24,Aspartame,7.84,295.12904,294.12176,[M+H]+,TRUE,C14H18N2O5,Analyte List - Metabolite,2120
+25,Azelaic acid,18.53,189.11234,188.10506,[M+H]+,TRUE,C9H16O4,Analyte List - Metabolite,2120
+26,Benzaldehyde,6.57,107.04905,106.04177,[M+H]+,TRUE,C7H6O,Analyte List - Metabolite,2020
+27,Benzocaine,7.84,166.08641,165.07913,[M+H]+,TRUE,C9H11NO2,Analyte List - Metabolite,2100
+28,Benzoic acid,4.51,123.04403,122.03675,[M+H]+,TRUE,C7H6O2,Analyte List - Metabolite,2120
+29,Cadaverine,18.54,103.12306,102.11579,[M+H]+,TRUE,C5H14N2,Analyte List - Metabolite,2120
+30,Caffeine,8.13,195.08772,194.08063,"[M+H]+, [M+Na]+",TRUE,C8H10N4O2,Analyte List - Metabolite,2110
+31,Chlorpheniramine,16,275.13445,274.12718,[M+H]+,TRUE,C16H19ClN2,Analyte List - Metabolite,1100
+32,Cinnamic acid,6.57,149.05973,148.05246,[M+H]+,TRUE,C9H8O2,Analyte List - Metabolite,2120
+33,Cis-Aconitic acid,1.58,175.02724,174.01997,[M+H]+,TRUE,C6H6O6,Analyte List - Metabolite,1100
+34,Cortisol,11.16,363.21765,362.21037,[M+H]+,TRUE,C21H30O5,Analyte List - Metabolite,2110
+35,Creatine,2.77,114.06626,131.06948,"[M-H2O+H]+, [M+H]+",TRUE,C4H9N3O2,Analyte List - Metabolite,2100
+36,Cytosine,3.47,112.05063,111.04336,[M+H]+,TRUE,C4H5N3O,Analyte List - Metabolite,2110
+37,Deoxycholic acid glycine conjugate,13.5,450.32297,449.31553,"[M+H]+, [M+Na]+",TRUE,C26H43NO5,Analyte List - Metabolite,2120
+38,DL-2-aminooctanoic acid,8.24,160.13346,159.12618,[M+H]+,TRUE,C8H17NO2,Analyte List - Metabolite,2120
+39,Elaidic acid,19.39,283.26357,282.25615,"[M+H]+, [M-H2O+H]+",TRUE,C18H34O2,Analyte List - Metabolite,2010
+40,Ethanolamine,15.3,62.06015,61.05287,[M+H]+,TRUE,C2H7NO,Analyte List - Metabolite,2100
+41,Glucosamine,6.9,180.08806,179.08079,[M+H]+,TRUE,C6H13NO5,Analyte List - Metabolite,2110
+42,Glycerophosphocholine,3.15,258.11031,257.10303,[M+H]+,TRUE,C8H20NO6P,Analyte List - Metabolite,2110
+43,Glycine,3.37,76.03937,75.03209,[M+H]+,TRUE,C2H5NO2,Analyte List - Metabolite,2120
+44,Glycocholic acid,12.13,466.31826,465.31087,"[M+H]+, [M-H2O+H]+",TRUE,C26H43NO6,Analyte List - Metabolite,2110
+45,Guanidine,1.54,60.05282,59.04554,[M+H]+,TRUE,CH5N3,Analyte List - Metabolite,1000
+46,Hippuric acid,8.53,202.04765,179.05846,"[M+Na]+, [M+H]+",TRUE,C9H9NO3,Analyte List - Metabolite,2110
+47,Homoveratric acid,11.16,197.08095,196.07367,[M+H]+,TRUE,C10H12O4,Analyte List - Metabolite,2110
+48,Hypoxanthine,6.19,137.0457,136.03843,[M+H]+,TRUE,C5H4N4O,Analyte List - Metabolite,2120
+49,Indole,7.39,118.06509,117.05781,[M+H]+,TRUE,C8H7N,Analyte List - Metabolite,2120
+50,Indoleacetic acid,10.62,176.07078,175.0635,[M+H]+,TRUE,C10H9NO2,Analyte List - Metabolite,2120
+51,Indolelactic acid,9.83,206.08139,205.07411,[M+H]+,TRUE,C11H11NO3,Analyte List - Metabolite,2120
+52,Inosinic acid,3.66,349.05551,348.04823,[M+H]+,TRUE,C10H13N4O8P,Analyte List - Metabolite,2100
+53,Isobutyric acid,11.81,89.05981,88.05254,[M+H]+,TRUE,C4H8O2,Analyte List - Metabolite,2120
+54,Isovalerylcarnitine,7.78,246.17011,245.16283,[M+H]+,TRUE,C12H23NO4,Analyte List - Metabolite,2120
+55,Kynurenic acid,8.03,190.05023,189.04296,[M+H]+,TRUE,C10H7NO3,Analyte List - Metabolite,2020
+56,L-Acetylcarnitine,3.43,204.12318,203.1159,[M+H]+,TRUE,C9H17NO4,Analyte List - Metabolite,2120
+57,L-Arginine,1.71,175.11881,174.11154,[M+H]+,TRUE,C6H14N4O2,Analyte List - Metabolite,2110
+58,L-Carnitine,2.7,162.11254,161.10526,[M+H]+,TRUE,C7H15NO3,Analyte List - Metabolite,2120
+59,L-Glutamine,8.44,129.06587,146.06925,"[M-H2O+H]+, [M+H]+",TRUE,C5H10N2O3,Analyte List - Metabolite,2100
+60,L-Histidine,1.67,156.07694,155.06966,[M+H]+,TRUE,C6H9N3O2,Analyte List - Metabolite,2100
+61,L-Kynurenine,6.52,209.09224,208.08497,[M+H]+,TRUE,C10H12N2O3,Analyte List - Metabolite,2120
+62,L-Methionine,3.48,150.05842,149.05114,[M+H]+,TRUE,C5H11NO2S,Analyte List - Metabolite,2110
+63,L-Norleucine,4.49,132.10193,131.09466,[M+H]+,TRUE,C6H13NO2,Analyte List - Metabolite,2120
+64,L-Phenylalanine,6.56,166.08624,165.07896,[M+H]+,TRUE,C9H11NO2,Analyte List - Metabolite,2110
+65,L-Proline,3.17,116.0707,115.06343,[M+H]+,TRUE,C5H9NO2,Analyte List - Metabolite,2120
+66,L-Tryptophan,7.39,205.09723,204.08995,[M+H]+,TRUE,C11H12N2O2,Analyte List - Metabolite,2120
+67,L-Valine,2.79,118.08634,117.07907,[M+H]+,TRUE,C5H11NO2,Analyte List - Metabolite,2120
+68,m-Coumaric acid,4.48,165.05465,164.04737,[M+H]+,TRUE,C9H8O3,Analyte List - Metabolite,2120
+69,N-Acetylputrescine,19.78,131.11792,130.11065,[M+H]+,TRUE,C6H14N2O,Analyte List - Metabolite,2120
+70,N-Acetylserotonin,8.44,219.11263,218.10535,[M+H]+,TRUE,C12H14N2O2,Analyte List - Metabolite,2110
+71,N-Methylhydantoin,7.39,115.05424,114.04697,[M+H]+,TRUE,C4H6N2O2,Analyte List - Metabolite,1110
+72,Niacinamide,3.62,123.05533,122.04805,[M+H]+,TRUE,C6H6N2O,Analyte List - Metabolite,2120
+73,Normetanephrine,2.41,184.09458,183.0873,[M+H]+,TRUE,C9H13NO3,Analyte List - Metabolite,1100
+74,Nutriacholic acid,21.1,413.26775,390.27849,"[M+Na]+, [M+H]+",TRUE,C24H38O4,Analyte List - Metabolite,2120
+75,o-Tyrosine,6.98,182.08085,181.07358,[M+H]+,TRUE,C9H11NO3,Analyte List - Metabolite,2120
+76,Oxalacetic acid,1.59,67.01239,132.01022,[M+H+H]2+,TRUE,C4H4O5,Analyte List - Metabolite,1120
+77,Oxypurinol,4.41,153.04079,152.03352,[M+H]+,TRUE,C5H4N4O2,Analyte List - Metabolite,2110
+78,Pantothenic acid,6.94,220.11813,219.11085,[M+H]+,TRUE,C9H17NO5,Analyte List - Metabolite,2020
+79,Paracetamol sulfate,7.46,232.02754,231.02026,[M+H]+,TRUE,C8H9NO5S,Analyte List - Metabolite,2020
+80,Paraxanthine,7.44,181.07207,180.0648,[M+H]+,TRUE,C7H8N4O2,Analyte List - Metabolite,2120
+81,PC(16:0/16:0),19.7,734.57186,733.56458,[M+H]+,TRUE,C40H80NO8P,Analyte List - Metabolite,1000
+82,PC(18:1(9Z)/18:1(9Z)),13.28,786.60306,785.59578,[M+H]+,TRUE,C44H84NO8P,Analyte List - Metabolite,1010
+83,Phenylpropiolic acid,4.49,147.04417,146.0369,[M+H]+,TRUE,C9H6O2,Analyte List - Metabolite,2110
+84,Phosphoric acid,3.35,98.98295,97.97568,[M+H]+,TRUE,H3O4P,Analyte List - Metabolite,2100
+85,Pipecolic acid,3.38,130.08634,129.07906,[M+H]+,TRUE,C6H11NO2,Analyte List - Metabolite,2120
+86,Propanal,12.8,59.04918,58.04191,[M+H]+,TRUE,C3H6O,Analyte List - Metabolite,2120
+87,Pyridoxal 5'-phosphate,0.4,248.03421,247.02694,[M+H]+,TRUE,C8H10NO6P,Analyte List - Metabolite,1120
+88,Pyroglutamic acid,8.44,130.04989,129.04261,[M+H]+,TRUE,C5H7NO3,Analyte List - Metabolite,2120
+89,Quinaldic acid,11.26,174.05511,173.04784,[M+H]+,TRUE,C10H7NO2,Analyte List - Metabolite,2110
+90,Sepiapterin,10.15,238.08988,237.0826,[M+H]+,TRUE,C9H11N5O3,Analyte List - Metabolite,1110
+91,Serotonin,4.47,177.10243,176.09515,[M+H]+,TRUE,C10H12N2O,Analyte List - Metabolite,2120
+92,Sphingosine,18.86,300.2903,299.28302,[M+H]+,TRUE,C18H37NO2,Analyte List - Metabolite,2110
+93,Succinic acid,3.77,119.03523,118.02795,[M+H]+,TRUE,C4H6O4,Analyte List - Metabolite,2100
+94,Succinylacetone,20.21,159.06513,158.05785,[M+H]+,TRUE,C7H10O4,Analyte List - Metabolite,2020
+95,Thyroxine,11.63,777.6969,776.68963,[M+H]+,TRUE,C15H11I4NO4,Analyte List - Metabolite,1110
+96,Trimethylamine,7.93,60.08087,59.0736,[M+H]+,TRUE,C3H9N,Analyte List - Metabolite,2120
+97,Urea,16.86,61.03887,60.03159,[M+H]+,TRUE,CH4N2O,Analyte List - Metabolite,2020
+98,Ureidosuccinic acid,14.25,177.05479,176.04751,[M+H]+,TRUE,C5H8N2O5,Analyte List - Metabolite,1110
+99,Uric acid,3.94,169.03556,168.02829,[M+H]+,TRUE,C5H4N4O3,Analyte List - Metabolite,2020
+100,Uridine,14.25,245.07869,244.07141,[M+H]+,TRUE,C9H12N2O6,Analyte List - Metabolite,2010
