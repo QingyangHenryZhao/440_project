@@ -1,4 +1,4 @@
--Overview:
+###Overview:###
   This repo contains three folders: Data, Code, and Results. We plan to use this repo to collaborate and analyze 
   a dataset that contains serum metabolomics profiling data of 99 metabolites from 170 patients with COVID-19 of different severity 
   (mentioned again below, with link to the dataset). We hope to include pathway information and correlation study to identify
@@ -6,7 +6,7 @@
   further statistical analysis using MetaboAnalyst or python packages. Besides pathway identification, we also want to perform 
   k-means clustering, random forest analysis, as well as PCA to improve on the predictive power of our findings.
   
--Data:
+###Data:###
   In the Data folder, there is the origianl raw data 'ST002301_AN003757.csv'
   downloaded from:
   https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Study&StudyID=ST002301&StudyType=MS&ResultType=1.
@@ -19,13 +19,13 @@
   It is there along with other files, so far mainly data extracted from the raw data, 
   without additional analysis (normalization for example).
   
--Folder Structure:
+###Folder Structure:###
   This repo contains three folders: Data, Code, and Results. We deposit any raw and processed data in the Data folder. 
   In the Code folder, there are, for now, two code files that allow us to generate the other extracted data files in the Data folder and
   the resulting graphs in the Results folder. In the Results folder, we deposite any graphs that were generated using the code in the 
   Code folder.
   
--Installation:
+###Installation:###
   The current two python files of code in the Code Folder requires the following:
   matplotlib==3.5.1
   numpy==1.22.2
