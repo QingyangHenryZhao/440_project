@@ -1,6 +1,6 @@
 -Overview:
   This repo contains three folders: Data, Code, and Results. We plan to use this repo to collaborate and analyze 
-  a dataset contains serum metabolomics profiling data of 99 metabolites from 170 patients with COVID-19 of different severity 
+  a dataset that contains serum metabolomics profiling data of 99 metabolites from 170 patients with COVID-19 of different severity 
   (mentioned again below, with link to the dataset). We hope to include pathway information and correlation study to identify
   key changes in different pathways that could potentially lead to Covid progression. We plan to process the data set for 
   further statistical analysis using MetaboAnalyst or python packages. Besides pathway identification, we also want to perform 
@@ -30,3 +30,8 @@
   matplotlib==3.5.1
   numpy==1.22.2
   pandas==1.4.2
+  To generate the current three files in the Results folder, we first downloaded the raw data 'ST002301_AN003757.csv' from the online source and
+  ran code 'Zhao_Qingyang_Pset4_440 Project_Data_Extracting' in the Code folder to generate a bunch of extracted files in the rest of the Data 
+  Folder. Then, we ran code 'Zhao_Qingyang_Pset4_440_Project_4_aminophenol_Raw_MS_Diff_Symptoms' in the Code folder to generate the three pdf
+  results seen in the Results folder. To recreate the results, simply run 'Zhao_Qingyang_Pset4_440_Project_4_aminophenol_Raw_MS_Diff_Symptoms',
+  while ensuring the data file being called is in the correct path on your computer.
